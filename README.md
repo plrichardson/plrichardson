@@ -11,7 +11,7 @@ I originally wrote [A-440][3] in 2011 using Objective-C. In 2016 I ported it to 
 
 [1]: https://www.hackingwithswift.com/100
 [2]: https://www.hackingwithswift.com/100/swiftui
-[3[: https://apps.apple.com/us/app/a-440-tuning-fork/id335593282
+[3]: https://apps.apple.com/us/app/a-440-tuning-fork/id335593282
 
 <!--
 **plrichardson/plrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
