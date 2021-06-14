@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔨 I'm currently working through [100 Days of Swift][1]
+🏋️ I'm currently working through [100 Days of Swift][1].
 
 [1]: https://www.hackingwithswift.com/100
 
