@@ -1,10 +1,17 @@
-### Hi there 👋
+### plrichardson
+
+My name is Paul Richardson. I'm an iOS developer, musician, photographer, walker, cook ...
 
 - 🏋️ I'm currently working through [100 Days of Swift][1].
 - ✅ I completed [100 Days of SwiftUI][2] in November 2020.
 
+#### A-440.app
+
+I originally wrote [A-440][3] in 2011 using Objective-C. In 2016 I ported it to Swift. I'm currently re-writing the app from scratch, using SwiftUI.
+
 [1]: https://www.hackingwithswift.com/100
 [2]: https://www.hackingwithswift.com/100/swiftui
+[3[: https://apps.apple.com/us/app/a-440-tuning-fork/id335593282
 
 <!--
 **plrichardson/plrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
