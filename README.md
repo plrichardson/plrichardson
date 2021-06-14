@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🏋️ I'm currently working through [100 Days of Swift][1]. I completed [100 Days of SwiftUI][2] in November 2020.
+🏋️ I'm currently working through [100 Days of Swift][1]. 
+✅ I completed [100 Days of SwiftUI][2] in November 2020.
 
 [1]: https://www.hackingwithswift.com/100
 [2]: https://www.hackingwithswift.com/100/swiftui
