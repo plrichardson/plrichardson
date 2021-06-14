@@ -5,9 +5,9 @@ My name is Paul Richardson. I'm an iOS developer, musician, photographer, walker
 - 🏋️ Currently working on [100 Days of Swift][1].
 - ✅ [100 Days of SwiftUI][2] completed, November 2020.
 
-#### A-440.app
+#### [A-440.app][3]
 
-- Version 1, released 2011, was written [A-440][3] in Objective-C.
+- Version 1, released 2011, was written in Objective-C.
 - For version 2, released 2016, the code was ported to Swift.
 - A-440 is currently being re-writen from scratch using SwiftUI.
 
