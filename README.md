@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🏋️ I'm currently working through [100 Days of Swift][1].
+🏋️ I'm currently working through [100 Days of Swift][1]. I completed [100 Days of SwiftUI][2] in Novmeber 2020.
 
 [1]: https://www.hackingwithswift.com/100
+[2]: https://www.hackingwithswift.com/100/swiftui
 
 <!--
 **plrichardson/plrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
