@@ -7,7 +7,9 @@ My name is Paul Richardson. I'm an iOS developer, musician, photographer, walker
 
 #### A-440.app
 
-I originally wrote [A-440][3] in 2011 using Objective-C. In 2016 I ported it to Swift. I'm currently re-writing the app from scratch, using SwiftUI.
+- I originally wrote [A-440][3] in 2011 using Objective-C.
+- In 2016 I ported it to Swift. 
+- I'm currently re-writing the app from scratch, using SwiftUI.
 
 [1]: https://www.hackingwithswift.com/100
 [2]: https://www.hackingwithswift.com/100/swiftui
