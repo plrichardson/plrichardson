@@ -2,7 +2,7 @@
 
 My name is Paul Richardson.
 
-- 🏋️ Currently working on [100 Days of Swift][1].
+- 🏋️ currently working on [100 Days of Swift][1].
 - ✅ [100 Days of SwiftUI][2] completed, November 2020.
 
 #### [A-440.app][3]
