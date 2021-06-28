@@ -2,7 +2,8 @@
 
 My name is Paul Richardson.
 
-- 🏋️ currently working on [100 Days of Swift][1].
+- 🏋️ currently digesting [Swift Design Patterns][4].
+- ✅ [100 Days of Swift][1] completed, June 2020
 - ✅ [100 Days of SwiftUI][2] completed, November 2020.
 
 #### [A-440.app][3]
@@ -14,6 +15,7 @@ My name is Paul Richardson.
 [1]: https://www.hackingwithswift.com/100
 [2]: https://www.hackingwithswift.com/100/swiftui
 [3]: https://apps.apple.com/us/app/a-440-tuning-fork/id335593282
+[4]: https://www.hackingwithswift.com/store/swift-design-patterns
 
 <!--
 **plrichardson/plrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
