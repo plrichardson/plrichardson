@@ -5,7 +5,8 @@ My name is Paul Richardson.
 
 - 🏋️ currently digesting [Swift Design Patterns][4].
 - ✅ [100 Days of Swift][1] completed, June 2020 ([Certificate](https://user-images.githubusercontent.com/69896195/123594361-f4165200-d832-11eb-8c7e-6636740e9f1b.jpg))
-- ✅ [100 Days of SwiftUI][2] completed, November 2020.
+- ✅ [100 Days of SwiftUI][2] completed, November 2020. ([Certificate](https://user-images.githubusercontent.com/69896195/123594798-7c94f280-d833-11eb-8878-253b0cea26d0.jpg))
+
 
 #### [A-440.app][3]
 
