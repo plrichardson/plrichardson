@@ -1,5 +1,5 @@
 
-### plrichardson
+## plrichardson
 
 My name is Paul Richardson.
 
