@@ -8,7 +8,7 @@ My name is Paul Richardson.
 - ✅ [100 Days of SwiftUI][2] completed, November 2020. ([Certificate](https://user-images.githubusercontent.com/69896195/123594798-7c94f280-d833-11eb-8878-253b0cea26d0.jpg))
 
 
-#### [A-440.app][3]
+## [A-440.app][3]
 
 - version 1, released 2011, was written in Objective-C.
 - for version 2, released 2016, the code was ported to Swift.
