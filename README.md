@@ -3,7 +3,7 @@
 
 My name is Paul Richardson.
 
-- 🏋️ currently digesting [Swift Design Patterns][4].
+- 🏋️ currently digesting [Pro Swift][4].
 - ✅ [100 Days of Swift][1] completed, June 2021 ([Certificate](https://user-images.githubusercontent.com/69896195/123594361-f4165200-d832-11eb-8c7e-6636740e9f1b.jpg))
 - ✅ [100 Days of SwiftUI][2] completed, November 2020. ([Certificate](https://user-images.githubusercontent.com/69896195/123594798-7c94f280-d833-11eb-8878-253b0cea26d0.jpg))
 
@@ -17,7 +17,7 @@ My name is Paul Richardson.
 [1]: https://www.hackingwithswift.com/100
 [2]: https://www.hackingwithswift.com/100/swiftui
 [3]: https://apps.apple.com/us/app/a-440-tuning-fork/id335593282
-[4]: https://www.hackingwithswift.com/store/swift-design-patterns
+[4]: https://www.hackingwithswift.com/store/pro-swift
 
 <!--
 **plrichardson/plrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
