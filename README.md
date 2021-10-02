@@ -12,7 +12,6 @@ My name is Paul Richardson.
 
 - version 1, released 2011, was written in Objective-C.
 - for version 2, released 2016, the code was ported to Swift.
-- currently being re-writen from scratch using SwiftUI.
 
 [1]: https://www.hackingwithswift.com/100
 [20]: https://www.hackingwithswift.com/100/swiftui
