@@ -15,7 +15,8 @@ My name is Paul Richardson.
 - currently being re-writen from scratch using SwiftUI.
 
 [1]: https://www.hackingwithswift.com/100
-[2]: https://www.hackingwithswift.com/100/swiftui
+[20]: https://www.hackingwithswift.com/100/swiftui
+[2]: https://github.com/plr-100daysOfSwiftUI
 [3]: https://apps.apple.com/us/app/a-440-tuning-fork/id335593282
 [4]: https://learning.oreilly.com/library/view/ios-14-programming/9781492092087/
 
