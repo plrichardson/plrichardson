@@ -7,7 +7,7 @@ My name is Paul Richardson.
 - ✅ [100 Days of Swift][1] completed, June 2021 ([Certificate](https://user-images.githubusercontent.com/69896195/123594361-f4165200-d832-11eb-8c7e-6636740e9f1b.jpg))
 - ✅ [100 Days of SwiftUI][2] completed, November 2020. ([Certificate](https://user-images.githubusercontent.com/69896195/123594798-7c94f280-d833-11eb-8878-253b0cea26d0.jpg))
 
-- 📫 You can reach me by [Email][5]
+📫 You can reach me by [Email][5]
 
 ## [A-440.app][3]
 
@@ -18,4 +18,4 @@ My name is Paul Richardson.
 [2]: https://github.com/plr-100daysOfSwiftUI
 [3]: https://apps.apple.com/us/app/a-440-tuning-fork/id335593282
 [4]: https://learning.oreilly.com/library/view/ios-14-programming/9781492092087/
-[5]: mailto:developer@photographerafoot.com
+[5]: mailto:developer@photographerafoot.com?subject="Contact via Github"
