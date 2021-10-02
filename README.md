@@ -10,8 +10,8 @@ My name is Paul Richardson.
 
 ## [A-440.app][3]
 
-- version 1, released 2011, was written in Objective-C.
-- for version 2, released 2016, the code was ported to Swift.
+- version 1, written in Objective-C, released 2011.
+- for version 2, written in Swift, released 2016.
 
 [1]: https://www.hackingwithswift.com/100
 [20]: https://www.hackingwithswift.com/100/swiftui
