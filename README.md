@@ -18,4 +18,4 @@ My name is Paul Richardson.
 [2]: https://github.com/plr-100daysOfSwiftUI
 [3]: https://apps.apple.com/us/app/a-440-tuning-fork/id335593282
 [4]: https://learning.oreilly.com/library/view/ios-14-programming/9781492092087/
-[5]: mailto:developer@photographerafoot.com?subject="Contact via Github"
+[5]: mailto:developer@photographerafoot.com?subject=Contact via Github
