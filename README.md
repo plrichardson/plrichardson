@@ -13,7 +13,7 @@ My name is Paul Richardson.
 ## [A-440.app][3]
 
 - version 1, written in Objective-C, released 2011.
-- for version 2, written in Swift, released 2016.
+- version 2, written in Swift, released 2016.
 
 [1]: https://github.com/plr-100daysOfSwift
 [2]: https://github.com/plr-100daysOfSwiftUI
